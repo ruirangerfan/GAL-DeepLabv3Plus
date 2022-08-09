@@ -1,0 +1,1 @@
+python3 test.py --dataset pothole --model galnet --input tdisp --name tdisp_gal --gal --epoch best

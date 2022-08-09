@@ -1,0 +1,1 @@
+python3 train.py --dataset pothole --model galnet --input tdisp --name tdisp_gal --gal
