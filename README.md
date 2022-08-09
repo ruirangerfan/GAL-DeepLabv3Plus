@@ -56,7 +56,7 @@ to train GAL-DeepLabv3+ with the transformed disparity images. The weights and t
 
 ## Citation
 
-If you use this code for your research, please cite our paper.
+If you use this code for your research, please cite our paper:
 
 ```
 @article{fan2021graph,
@@ -71,7 +71,7 @@ If you use this code for your research, please cite our paper.
   doi       = {10.1109/TIP.2021.3112316}
 }
 ```
-If you use the pothole dataset for your research, please cite our papers.
+If you use the pothole dataset for your research, please cite our papers:
 
 ```
 @article{fan2019pothole,
