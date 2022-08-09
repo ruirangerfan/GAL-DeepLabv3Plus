@@ -11,7 +11,7 @@ In this repository, we provide the training and testing setups on the [pothole d
 </p>
 
 <p align="center">
-<img src="doc/GAL.png" width="100%"/>
+<img src="doc/GAL.png" width="90%"/>
 </p>
 
 ## Setup
