@@ -30,7 +30,7 @@ GAL-DeepLabv3plus
  ...
 ```
 
-The pothole dataset `datasets/pothole` can be downloaded from [here](http://nas.rfan.life:5000/sharing/ySzje7lr1), and the pretrained weight `runs/tdisp_gal` for our GAL-DeepLabv3+ can be downloaded from [here](http://nas.rfan.life:5000/sharing/dcbGv3g37).
+The pothole dataset `datasets/pothole` can be downloaded from [here](http://nas.rfan.life:5000/sharing/ySzje7lr1), and the pretrained weight `runs/tdisp_gal` for our GAL-DeepLabv3+ can be downloaded from [here](http://nas.rfan.life:5000/sharing/wVyQD5HxT).
 
 ## Usage
 
