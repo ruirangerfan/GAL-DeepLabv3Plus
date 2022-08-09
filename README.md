@@ -1,4 +1,4 @@
-# GAL-DeepLabv3plus
+# GAL-DeepLabv3Plus
 
 ## Introduction
 
