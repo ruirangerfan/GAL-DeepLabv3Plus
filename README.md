@@ -71,6 +71,40 @@ If you use this code for your research, please cite our paper.
   doi       = {10.1109/TIP.2021.3112316}
 }
 ```
+If you use the pothole dataset for your research, please cite our papers.
+
+```
+@article{fan2019pothole,
+  title={Pothole detection based on disparity transformation and road surface modeling},
+  author={Fan, Rui and Ozgunalp, Umar and Hosking, Brett and Liu, Ming and Pitas, Ioannis},
+  journal={IEEE Transactions on Image Processing},
+  volume={29},
+  pages={897--908},
+  year={2019},
+  publisher={IEEE}
+}
+@article{fan2019road,
+  title={Road damage detection based on unsupervised disparity map segmentation},
+  author={Fan, Rui and Liu, Ming},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={21},
+  number={11},
+  pages={4906--4911},
+  year={2019},
+  publisher={IEEE}
+}
+@article{fan2018road,
+  title={Road surface 3D reconstruction based on dense subpixel disparity map estimation},
+  author={Fan, Rui and Ai, Xiao and Dahnoun, Naim},
+  journal={IEEE Transactions on Image Processing},
+  volume={27},
+  number={6},
+  pages={3025--3035},
+  year={2018},
+  publisher={IEEE}
+}
+```
+
 
 ## Acknowledgement
 
