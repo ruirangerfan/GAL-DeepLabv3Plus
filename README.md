@@ -4,7 +4,7 @@
 
 This is the official PyTorch implementation of **[Graph Attention Layer Evolves Semantic Segmentation for Road Pothole Detection: A Benchmark and Algorithms](https://ieeexplore.ieee.org/document/9547682)**, published on IEEE T-IP in 2021.
 
-In this repository, we provide the training and testing setups on the [pothole dataset](http://nas.rfan.life:5000/sharing/ySzje7lr1) ([paper](https://ieeexplore.ieee.org/abstract/document/8809907)). We have tested our code in Python 3.8.10, CUDA 11.1, and PyTorch 1.10.1.
+In this repository, we provide the training and testing setups on the [pothole dataset](https://drive.google.com/file/d/1zlKscPe7Y58HEekIoLh249ewdWGotsn0/view?usp=sharing) ([paper](https://ieeexplore.ieee.org/abstract/document/8809907)). We have tested our code in Python 3.8.10, CUDA 11.1, and PyTorch 1.10.1.
 
 <p align="center">
 <img src="doc/GAL-DeepLabv3+.png" width="100%"/>
@@ -30,7 +30,7 @@ GAL-DeepLabv3plus
  ...
 ```
 
-The pothole dataset `datasets/pothole` can be downloaded from [here](http://nas.rfan.life:5000/sharing/ySzje7lr1), and the pretrained weight `runs/tdisp_gal` for our GAL-DeepLabv3+ can be downloaded from [here](http://nas.rfan.life:5000/sharing/wVyQD5HxT).
+The pothole dataset `datasets/pothole` can be downloaded from [here](https://drive.google.com/file/d/1zlKscPe7Y58HEekIoLh249ewdWGotsn0/view?usp=sharing), and the pretrained weight `runs/tdisp_gal` for our GAL-DeepLabv3+ can be downloaded from [here](https://drive.google.com/file/d/1wvcBtnOzvfYnDTXiP_Y-Z66C1N_vp7HU/view?usp=sharing).
 
 ## Usage
 
